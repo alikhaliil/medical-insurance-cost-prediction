@@ -1,3 +1,4 @@
+https://medical-insurance-cost-prediction-8dk4bj5po9xfzjrjgz6bmc.streamlit.app/
 Overview
 Predicting medical insurance charges using the Medical Cost Dataset.
 The project focuses on improving a baseline Linear Regression model through feature engineering based on exploratory data
@@ -20,4 +21,5 @@ Interactive Web App
 Deployment: Deployed a real-time predictor using Streamlit.
 Functionality: The app accepts user metrics (Age, BMI, Smoking status) and applies the same feature
 engineering logic (bmi_smoker) to output a cost estimate.
+
 Usage: Run streamlit run app.py to launch the local interface.
